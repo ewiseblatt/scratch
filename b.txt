@@ -1,1 +1,1 @@
-Added feature in feature-b.
+MOdification to b.
