@@ -1,1 +1,11 @@
 Edited in feature-b branch.
+
+This is another edit in the develop branch.
+{
+   int a = 1;
+   const b = 2;
+}
+
+Just curious.
+   
+
