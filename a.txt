@@ -1,6 +1,7 @@
 Edited in feature-b branch.
 
 This is another edit in the develop branch.
+And this is an edit
 {
    int a = 1;
    const b = 2;
